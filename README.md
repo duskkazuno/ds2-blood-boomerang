@@ -42,6 +42,10 @@ A few non-printed parts are required:
 
 ### Video
 
+
+https://github.com/user-attachments/assets/c6967bda-f9c3-49ce-b426-b96022cf17b0
+
+
 A step-by-step assembly video is embedded above (yes, I went through the effort of animating and building shaders for that. Yes the rubber band is shape-keyed. Yes the threads are modeled with correct major and minor diameters on the screws and inserts. I don't have a problem; I can stop any time I want).
 
 ### Text instructions
